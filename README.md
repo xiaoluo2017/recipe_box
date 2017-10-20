@@ -6,7 +6,7 @@ A recipe box support create/edit/delete recipes with names and ingredients
 ```
 git clone https://github.com/xiaoluo2017/recipe_box
 ```
-* Initial the database_url in ./route/config.js
+* Set the database_url in ```./route/config.js```
 * Install dependencies for the back-end
 ```
 cd recipe_box && npm install
@@ -17,8 +17,7 @@ PORT=3001 node bin/www
 ```
 In Windows:
 ```
-set PORT=3001
-node bin/www
+set PORT=3001 && node bin/www
 ```
 * Install dependencies for the font-end
 ```
