@@ -2,9 +2,10 @@ var express = require('express');
 var router = express.Router();
 var mongo = require('mongodb').MongoClient;
 var ObjectId = require('mongodb').ObjectID;
+var config = require('./config');
 
 router.post('/', function(req, res, next) {
-  mongo.connect("mongodb://xiaoluo:one123@ds125255.mlab.com:25255/recipe_box", function(err, db) {
+  mongo.connect(config.database, function(err, db) {
     if (err) throw err;
     var collection = db.collection("dishes");
     collection.update({
