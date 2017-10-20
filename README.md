@@ -4,7 +4,7 @@ A recipe box support create/edit/delete recipes with names and ingredients
 ## Usage
 * Clone Repo 
 ```
-git clone https://github.com/xiaoluo2017/recipe_box
+git clone https://github.com/xiaoluo2017/recipe_box.git
 ```
 * Set the database_url in ```./route/config.js```
 * Install dependencies for the back-end 
