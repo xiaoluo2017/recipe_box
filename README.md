@@ -17,7 +17,7 @@ PORT=3001 node bin/www
 ```
 In Windows: 
 ```
-set PORT=3001 && node bin/www
+set PORT=8080 && node bin/www
 ```
 * Install dependencies for the font-end 
 ```
