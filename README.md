@@ -7,7 +7,7 @@ A recipe box support create/edit/delete recipes with names and ingredients<br/>
   </a>
 </p>
 <p align="center">
-  <a href="https://quiet-spire-99311.herokuapp.com/">Live Demo</a>
+  <a href="https://ancient-lowlands-51718.herokuapp.com/">Live Demo</a>
 </p>
 
 ## Getting Started
