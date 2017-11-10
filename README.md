@@ -2,7 +2,9 @@
 A recipe box support create/edit/delete recipes with names and ingredients<br/>
 
 <p align="center" margin-bottom="0">
-  <img alt="Recipe box Clone Demo" width="auto" height="auto" src="https://github.com/xiaoluo2017/recipe_box/blob/master/images/index.PNG">
+  <a href="https://ancient-lowlands-51718.herokuapp.com/" target="_blank">
+    <img alt="Recipe box Clone Demo" width="auto" height="auto" src="https://github.com/xiaoluo2017/recipe_box/blob/master/images/index.PNG">
+  </a>
 </p>
 <p align="center">
   <a href="https://ancient-lowlands-51718.herokuapp.com/">Live Demo</a>
